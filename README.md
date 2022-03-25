@@ -41,3 +41,8 @@ Once your credentials are in the .env file, now you can migrate your database.
 Once everything is in place and database is running run 
 
 `php artisan serve` to start the application on your localhost port 8000
+
+### 9. Test Using Postman
+Open Postman application to test using endpoints in the API documentation
+
+`php artisan serve` to start the application on your localhost port 8000
