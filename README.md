@@ -1,6 +1,6 @@
-# AppPAY
+# PAYMENT API (Paystack)
 
-AppPAY enables users to signup/login and deposit certain amount of cash on the platform. Total number of deposits and total cash can be viewed from the dashboard.
+This payment API enables users to signup/login and deposit certain amount of cash on the platform using paystack. Total number of deposits and total cash can be viewed from the dashboard.
 Visit `http://naira-apppay.herokuapp.com/` for a working DEMO
 
 
